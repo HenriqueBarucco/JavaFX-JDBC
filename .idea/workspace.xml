@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1d7947b-131e-4b40-b320-bcf807219837" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/db/DbIntegrityException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/dao/DaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/dao/SellerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/dao/impl/DepartmentDaoJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/entities/Seller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/MainViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/MainViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/entities/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/entities/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/services/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/services/DepartmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +47,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.33908045&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Henrique-PC/OneDrive/Documentos/Programação/Projetos/workshop-javafx-jdbc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.33908045"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Henrique-PC\OneDrive\Documentos\Programação\Projetos\workshop-javafx-jdbc" />
+      <recent name="D:\Henrique-PC\OneDrive\Documentos\Programação\Projetos\workshop-javafx-jdbc\src\main\java\com\example\workshopjavafxjdbc" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Henrique-PC\OneDrive\Documentos\Programação\Projetos\workshop-javafx-jdbc\src\main\resources\com\example\workshopjavafxjdbc" />
       <recent name="D:\Henrique-PC\OneDrive\Documentos\Programação\Projetos\workshop-javafx-jdbc\src\main\java\com\example\workshopjavafxjdbc\gui" />
@@ -105,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658268754892</updated>
       <workItem from="1658268756123" duration="6493000" />
-      <workItem from="1658350126583" duration="2808000" />
+      <workItem from="1658350126583" duration="3711000" />
     </task>
     <servers />
   </component>
