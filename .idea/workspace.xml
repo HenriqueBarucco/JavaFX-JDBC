@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1d7947b-131e-4b40-b320-bcf807219837" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/gui/util/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/workshopjavafxjdbc/DepartmentForm.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/DepartmentFormController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/DepartmentListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/DepartmentListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/MainViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/MainViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/workshopjavafxjdbc/DepartmentForm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/workshopjavafxjdbc/DepartmentForm.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -113,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658268754892</updated>
       <workItem from="1658268756123" duration="6493000" />
-      <workItem from="1658350126583" duration="6425000" />
+      <workItem from="1658350126583" duration="7158000" />
     </task>
     <servers />
   </component>
