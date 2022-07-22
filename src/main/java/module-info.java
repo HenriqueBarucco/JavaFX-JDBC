@@ -8,4 +8,5 @@ module com.example.workshopjavafxjdbc {
     exports com.example.workshopjavafxjdbc;
     opens com.example.workshopjavafxjdbc.model.entities to javafx.graphics, javafx.fxml, javafx.base;
     opens com.example.workshopjavafxjdbc.model.services to javafx.graphics, javafx.fxml;
+    opens com.example.workshopjavafxjdbc.gui.listeners to javafx.graphics, javafx.fxml, javafx.base;
 }

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1d7947b-131e-4b40-b320-bcf807219837" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/exceptions/ValidationException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/DepartmentFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/DepartmentFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/DepartmentListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/DepartmentListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/workshopjavafxjdbc/DepartmentList.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/workshopjavafxjdbc/DepartmentList.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +113,7 @@
       <updated>1658268754892</updated>
       <workItem from="1658268756123" duration="6493000" />
       <workItem from="1658350126583" duration="7267000" />
-      <workItem from="1658451272383" duration="3394000" />
+      <workItem from="1658451272383" duration="4288000" />
     </task>
     <servers />
   </component>
