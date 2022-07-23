@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1d7947b-131e-4b40-b320-bcf807219837" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/SellerListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/model/services/SellerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Henrique-PC\OneDrive\Documentos\Programação\Projetos\workshop-javafx-jdbc\src\main\resources\com\example\workshopjavafxjdbc" />
       <recent name="D:\Henrique-PC\OneDrive\Documentos\Programação\Projetos\workshop-javafx-jdbc" />
       <recent name="D:\Henrique-PC\OneDrive\Documentos\Programação\Projetos\workshop-javafx-jdbc\src\main\java\com\example\workshopjavafxjdbc" />
     </key>
@@ -63,6 +66,9 @@
       <recent name="D:\Henrique-PC\OneDrive\Documentos\Programação\Projetos\workshop-javafx-jdbc\src\main\java\com\example\workshopjavafxjdbc\gui" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.workshopjavafxjdbc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.workshopjavafxjdbc" />
     </key>
   </component>
@@ -110,7 +116,9 @@
       <updated>1658268754892</updated>
       <workItem from="1658268756123" duration="6493000" />
       <workItem from="1658350126583" duration="7267000" />
-      <workItem from="1658451272383" duration="5725000" />
+      <workItem from="1658451272383" duration="5879000" />
+      <workItem from="1658458774399" duration="32000" />
+      <workItem from="1658540063829" duration="397000" />
     </task>
     <servers />
   </component>
