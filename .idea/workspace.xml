@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1d7947b-131e-4b40-b320-bcf807219837" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/SellerListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/SellerListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/gui/util/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/gui/util/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/SellerFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/workshopjavafxjdbc/SellerForm.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +117,7 @@
       <workItem from="1658350126583" duration="7267000" />
       <workItem from="1658451272383" duration="5879000" />
       <workItem from="1658458774399" duration="32000" />
-      <workItem from="1658540063829" duration="1082000" />
+      <workItem from="1658540063829" duration="1459000" />
     </task>
     <servers />
   </component>
